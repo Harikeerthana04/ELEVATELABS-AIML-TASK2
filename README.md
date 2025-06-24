@@ -27,3 +27,8 @@ Perform EDA using Titanic dataset to understand the structure, spot trends and p
 - `titanic.csv`
 - `titanic_eda.ipynb`
 - Screenshots of plots (optional)
+![image](https://github.com/user-attachments/assets/96efdeff-ac3e-48eb-92a1-bf429e56400d)
+![image](https://github.com/user-attachments/assets/feab441e-ccef-4b08-9462-0a70b8107912)
+![image](https://github.com/user-attachments/assets/dc54a0c0-e0dc-4178-9610-11d7b059a014)
+![image](https://github.com/user-attachments/assets/f801e254-38ef-4356-8109-aeffb30221ea)
+
